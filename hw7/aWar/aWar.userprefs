@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Patrolable.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FirstController.cs" Line="80" Column="2" />
+      <File FileName="Assets\Scripts\BaseCode.cs" Line="39" Column="4" />
+      <File FileName="Assets\Scripts\Singleton.cs" Line="13" Column="28" />
+      <File FileName="Assets\Scripts\CrowFactory.cs" Line="26" Column="1" />
+      <File FileName="Assets\Scripts\Patrolable.cs" Line="55" Column="3" />
+      <File FileName="Assets\Scripts\MsgManager.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\UserGUI.cs" Line="44" Column="23" />
+      <File FileName="Assets\Scripts\Moveable.cs" Line="71" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
